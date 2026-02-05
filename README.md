@@ -65,6 +65,7 @@ git pull
 
 4. Add a new line below: \
 WRITE A CONTROVERSIAL OPINION YOU HAVE HERE
+
 Flip flops should be worn more often
 
 5. Add, commit, and push your changes:
